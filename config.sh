@@ -1,2 +1,5 @@
 echo "hello how do u do"
-php index.php
+ls -la
+pwd
+whoami
+#php index.php
